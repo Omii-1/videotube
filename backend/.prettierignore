@@ -3,6 +3,7 @@
 /dist
 /generated
 /prisma
+app.log
 
 *.env
 .env.*
